@@ -1,7 +1,7 @@
 
-const XBOT = '『AMPIBI bot』'; 
-const instagram = 'https://bit.ly/2I4St2Y'; 
-const nomer = 'Wa.me/+6282334297175'; 
+const XBOT = '모BOTーBODOH모'; 
+const instagram = 'https://www.instagram.com/kaumbodoh_'; 
+const nomer = 'Wa.me/+62822236929603'; 
 const aktif = 'Tergantung kuota'; 
 const groupwhatsapp = 'https://bit.ly/2VJLtfn'; 
 const youtube = 'https://bit.ly/36Bp6ie'; 
@@ -53,7 +53,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] BOT ready to scan now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] BOT-BODOH By Panpan ready to scan now Anjg!`);
 });
 
 conn.on('credentials-updated', () =>
